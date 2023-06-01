@@ -1,3 +1,6 @@
 Hello, this is our practice file for branching.
 
 This is a change made in our main branch.
+
+Conflict!
+Conflict x2!
