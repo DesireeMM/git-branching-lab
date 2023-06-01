@@ -1,3 +1,6 @@
 Hello, this is our practice file for branching.
 
 This is a change made in our main branch.
+
+This is going to cause a conflict.
+Conflict Line 2
