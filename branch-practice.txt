@@ -4,3 +4,5 @@ This is a change made in our main branch.
 
 This is going to cause a conflict.
 Conflict Line 2
+Conflict!
+Conflict x2!
