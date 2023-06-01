@@ -1,1 +1,3 @@
 This text file is from a deleted branch.
+
+This text is added after merging with the main branch.
