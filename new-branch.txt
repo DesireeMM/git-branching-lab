@@ -1,3 +1,5 @@
 Hello, this is a new text file on a new branch.
 
 This change is being made on the new-branch branch.
+
+Here are some changes for a pull request.
